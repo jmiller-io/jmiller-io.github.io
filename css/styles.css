@@ -32,3 +32,8 @@
 #interests #interests-list li {
   margin: 15px 20px;
 }
+
+#modal_footer {
+  margin-top: 1em;
+  list-style: none;
+}
