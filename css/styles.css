@@ -12,3 +12,23 @@
   display: inline-block;
   margin: 15px 20px;
 }
+
+#interests #interests-list {
+  display: flex;
+  justify-content: center;
+  flex-flow: row wrap;
+  margin-top: 20px;
+  padding: 0;
+  list-style: none;
+  text-align: center;
+}
+
+.about_icon {
+  width: 75px;
+  background-color: #32abd4;
+  border-radius: 50%;
+}
+
+#interests #interests-list li {
+  margin: 15px 20px;
+}
