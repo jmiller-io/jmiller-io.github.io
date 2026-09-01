@@ -71,3 +71,7 @@ $(function() {
 $('#name').focus(function() {
     $('#success').html('');
 });
+
+
+// Set copyright contents
+document.getElementById('copyright').textContent = `\u00A9 ${new Date().getFullYear()} Jake Miller`
